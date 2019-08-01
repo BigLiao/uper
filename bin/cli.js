@@ -8,10 +8,6 @@ program
   .version(pkg.version)
   .usage('<file> [options]');
 
-program.action((value, cmd) => {
-  require('../lib/upload')(value, cmd);
-});
-
 program
   .command('config [value]')
   .description('inspect and modify the config')
@@ -22,6 +18,12 @@ program
     require('../lib/config')(value, cmd);
   });
 
+
+program
+  .action((...args) => {
+    const file = args.slice(0, -1);
+    require('../lib/upload')(file);
+  });
 
 
 
