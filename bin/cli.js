@@ -20,6 +20,7 @@ program
 
 
 program
+  .option('-m, --markdown <file>', 'parse a markdown file', require('../lib/markdown'))
   .action((...args) => {
     const file = args.slice(0, -1);
     require('../lib/upload')(file);
