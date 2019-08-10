@@ -94,7 +94,7 @@ uper -m <MARKDOWN_FILE>
 
 比如对此文档执行 `uper -m README-CN.md` 的前后对比：
 
-![屏幕快照 2019-08-10 下午8.11.25](/Users/liao/Desktop/屏幕快照 2019-08-10 下午8.11.25.png)
+![屏幕快照 2019-08-10 下午8.11.25](https://cdn.bigliao.com/e3d73dc39e97f61d69c1bcb719900cb8.png)
 
 ## 后续功能
 
