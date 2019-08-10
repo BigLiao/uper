@@ -1,11 +1,11 @@
 {
   "name": "uper",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "bugs": {
     "url": "https://github.com/BigLiao/uper.js/issues"
   },
-  "homepage": "https://github.com/BigLiao/uper.js#readme",
-  "description": "a command-line tool to put file in cloud",
+  "homepage": "https://github.com/BigLiao/uper.js",
+  "description": "A command-line tool for uploading files.",
   "keywords": [
     "upload",
     "oss",
