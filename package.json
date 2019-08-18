@@ -5,12 +5,13 @@
     "url": "https://github.com/BigLiao/uper.js/issues"
   },
   "homepage": "https://github.com/BigLiao/uper.js",
-  "description": "A command-line tool for uploading files.",
+  "description": "A command-line tool for uploading images.",
   "keywords": [
     "upload",
     "oss",
     "cdn",
-    "uper"
+    "uper",
+    "image"
   ],
   "repository": {
     "type": "git",
