@@ -1,6 +1,6 @@
 {
   "name": "uper",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "bugs": {
     "url": "https://github.com/BigLiao/uper.js/issues"
   },
@@ -35,6 +35,7 @@
     "form-data": "^2.5.0",
     "fs-extra": "^8.1.0",
     "fs-line": "0.0.3",
+    "glob": "^7.1.4",
     "inquirer": "^6.5.0",
     "qiniu": "^7.2.2"
   },
